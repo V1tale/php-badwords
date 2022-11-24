@@ -1,0 +1,66 @@
+header {
+ background-color: rgb(83, 83, 83);
+ color:white;
+ height:15vh;
+ line-height: 7.5vh;
+}
+main {
+    padding: 3rem 0;
+    color:white;
+    height: 85vh;
+}
+.container {
+    width: 80%;
+    margin:auto;
+}
+
+span {
+    color:red;
+    text-decoration: line-through;
+}
+h1 {
+    font-size:3rem;
+}
+h2 {
+    font-size: 2rem;
+}
+p {
+    font-size:1.8rem;
+    margin-bottom: 3rem;
+}
+h3 {
+    font-size: 1.6rem;
+}
+label {
+    font-size: 2rem;
+    display: block;
+    margin: 2rem 0 1rem 0;
+}
+textarea {
+    resize: none;
+}
+button {
+    display:block;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: brown;
+    color:white;
+    margin-top:1rem;
+    cursor:pointer;
+    border: 1px solid gray;
+}
+button:hover {
+    background-color: rgb(207, 7, 7);
+    border: 1px solid white;
+}
+.top p, .bottom p {
+    background-color: rgb(5, 1, 37);
+    padding: 10px;
+    width:50%;
+} 
+h4 {
+    font-size: 2rem;
+}
+.bottom {
+    margin-top:3rem;
+}
